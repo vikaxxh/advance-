@@ -1,9 +1,0 @@
-car
-bus 
-action fig
-remote controll
-
-
-phone
-horse
-
